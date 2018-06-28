@@ -1,0 +1,161 @@
+
+Pods/Alamofire/LICENSE
+Pods/Alamofire/README.md
+Pods/Alamofire/Source/AFError.swift
+Pods/Alamofire/Source/Alamofire.swift
+Pods/Alamofire/Source/DispatchQueue+Alamofire.swift
+Pods/Alamofire/Source/MultipartFormData.swift
+Pods/Alamofire/Source/NetworkReachabilityManager.swift
+Pods/Alamofire/Source/Notifications.swift
+Pods/Alamofire/Source/ParameterEncoding.swift
+Pods/Alamofire/Source/Request.swift
+Pods/Alamofire/Source/Response.swift
+Pods/Alamofire/Source/ResponseSerialization.swift
+Pods/Alamofire/Source/Result.swift
+Pods/Alamofire/Source/ServerTrustPolicy.swift
+Pods/Alamofire/Source/SessionDelegate.swift
+Pods/Alamofire/Source/SessionManager.swift
+Pods/Alamofire/Source/TaskDelegate.swift
+Pods/Alamofire/Source/Timeline.swift
+Pods/Alamofire/Source/Validation.swift
+Pods/Manifest.lock
+Pods/Pods.xcodeproj/project.pbxproj
+Pods/Pods.xcodeproj/xcuserdata/kbukinevich.xcuserdatad/xcschemes/Alamofire.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/kbukinevich.xcuserdatad/xcschemes/Pods-Gif Searcher.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/kbukinevich.xcuserdatad/xcschemes/SDWebImage.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/kbukinevich.xcuserdatad/xcschemes/SVProgressHUD.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/kbukinevich.xcuserdatad/xcschemes/SwiftyJSON.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/kbukinevich.xcuserdatad/xcschemes/xcschememanagement.plist
+Pods/Pods.xcodeproj/xcuserdata/macbook.xcuserdatad/xcschemes/Alamofire.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/macbook.xcuserdatad/xcschemes/Pods-Gif Searcher.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/macbook.xcuserdatad/xcschemes/SDWebImage.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/macbook.xcuserdatad/xcschemes/SVProgressHUD.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/macbook.xcuserdatad/xcschemes/SwiftyGif.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/macbook.xcuserdatad/xcschemes/SwiftyJSON.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/macbook.xcuserdatad/xcschemes/xcschememanagement.plist
+Pods/SDWebImage/LICENSE
+Pods/SDWebImage/README.md
+Pods/SDWebImage/SDWebImage/NSButton+WebCache.h
+Pods/SDWebImage/SDWebImage/NSButton+WebCache.m
+Pods/SDWebImage/SDWebImage/NSData+ImageContentType.h
+Pods/SDWebImage/SDWebImage/NSData+ImageContentType.m
+Pods/SDWebImage/SDWebImage/NSImage+WebCache.h
+Pods/SDWebImage/SDWebImage/NSImage+WebCache.m
+Pods/SDWebImage/SDWebImage/SDAnimatedImageRep.h
+Pods/SDWebImage/SDWebImage/SDAnimatedImageRep.m
+Pods/SDWebImage/SDWebImage/SDImageCache.h
+Pods/SDWebImage/SDWebImage/SDImageCache.m
+Pods/SDWebImage/SDWebImage/SDImageCacheConfig.h
+Pods/SDWebImage/SDWebImage/SDImageCacheConfig.m
+Pods/SDWebImage/SDWebImage/SDWebImageCoder.h
+Pods/SDWebImage/SDWebImage/SDWebImageCoder.m
+Pods/SDWebImage/SDWebImage/SDWebImageCoderHelper.h
+Pods/SDWebImage/SDWebImage/SDWebImageCoderHelper.m
+Pods/SDWebImage/SDWebImage/SDWebImageCodersManager.h
+Pods/SDWebImage/SDWebImage/SDWebImageCodersManager.m
+Pods/SDWebImage/SDWebImage/SDWebImageCompat.h
+Pods/SDWebImage/SDWebImage/SDWebImageCompat.m
+Pods/SDWebImage/SDWebImage/SDWebImageDownloader.h
+Pods/SDWebImage/SDWebImage/SDWebImageDownloader.m
+Pods/SDWebImage/SDWebImage/SDWebImageDownloaderOperation.h
+Pods/SDWebImage/SDWebImage/SDWebImageDownloaderOperation.m
+Pods/SDWebImage/SDWebImage/SDWebImageFrame.h
+Pods/SDWebImage/SDWebImage/SDWebImageFrame.m
+Pods/SDWebImage/SDWebImage/SDWebImageGIFCoder.h
+Pods/SDWebImage/SDWebImage/SDWebImageGIFCoder.m
+Pods/SDWebImage/SDWebImage/SDWebImageImageIOCoder.h
+Pods/SDWebImage/SDWebImage/SDWebImageImageIOCoder.m
+Pods/SDWebImage/SDWebImage/SDWebImageManager.h
+Pods/SDWebImage/SDWebImage/SDWebImageManager.m
+Pods/SDWebImage/SDWebImage/SDWebImageOperation.h
+Pods/SDWebImage/SDWebImage/SDWebImagePrefetcher.h
+Pods/SDWebImage/SDWebImage/SDWebImagePrefetcher.m
+Pods/SDWebImage/SDWebImage/SDWebImageTransition.h
+Pods/SDWebImage/SDWebImage/SDWebImageTransition.m
+Pods/SDWebImage/SDWebImage/UIButton+WebCache.h
+Pods/SDWebImage/SDWebImage/UIButton+WebCache.m
+Pods/SDWebImage/SDWebImage/UIImage+ForceDecode.h
+Pods/SDWebImage/SDWebImage/UIImage+ForceDecode.m
+Pods/SDWebImage/SDWebImage/UIImage+GIF.h
+Pods/SDWebImage/SDWebImage/UIImage+GIF.m
+Pods/SDWebImage/SDWebImage/UIImage+MultiFormat.h
+Pods/SDWebImage/SDWebImage/UIImage+MultiFormat.m
+Pods/SDWebImage/SDWebImage/UIImageView+HighlightedWebCache.h
+Pods/SDWebImage/SDWebImage/UIImageView+HighlightedWebCache.m
+Pods/SDWebImage/SDWebImage/UIImageView+WebCache.h
+Pods/SDWebImage/SDWebImage/UIImageView+WebCache.m
+Pods/SDWebImage/SDWebImage/UIView+WebCache.h
+Pods/SDWebImage/SDWebImage/UIView+WebCache.m
+Pods/SDWebImage/SDWebImage/UIView+WebCacheOperation.h
+Pods/SDWebImage/SDWebImage/UIView+WebCacheOperation.m
+Pods/SVProgressHUD/LICENSE
+Pods/SVProgressHUD/README.md
+Pods/SVProgressHUD/SVProgressHUD/SVIndefiniteAnimatedView.h
+Pods/SVProgressHUD/SVProgressHUD/SVIndefiniteAnimatedView.m
+Pods/SVProgressHUD/SVProgressHUD/SVProgressAnimatedView.h
+Pods/SVProgressHUD/SVProgressHUD/SVProgressAnimatedView.m
+Pods/SVProgressHUD/SVProgressHUD/SVProgressHUD.bundle/angle-mask.png
+Pods/SVProgressHUD/SVProgressHUD/SVProgressHUD.bundle/angle-mask@2x.png
+Pods/SVProgressHUD/SVProgressHUD/SVProgressHUD.bundle/angle-mask@3x.png
+Pods/SVProgressHUD/SVProgressHUD/SVProgressHUD.bundle/error.png
+Pods/SVProgressHUD/SVProgressHUD/SVProgressHUD.bundle/error@2x.png
+Pods/SVProgressHUD/SVProgressHUD/SVProgressHUD.bundle/error@3x.png
+Pods/SVProgressHUD/SVProgressHUD/SVProgressHUD.bundle/info.png
+Pods/SVProgressHUD/SVProgressHUD/SVProgressHUD.bundle/info@2x.png
+Pods/SVProgressHUD/SVProgressHUD/SVProgressHUD.bundle/info@3x.png
+Pods/SVProgressHUD/SVProgressHUD/SVProgressHUD.bundle/success.png
+Pods/SVProgressHUD/SVProgressHUD/SVProgressHUD.bundle/success@2x.png
+Pods/SVProgressHUD/SVProgressHUD/SVProgressHUD.bundle/success@3x.png
+Pods/SVProgressHUD/SVProgressHUD/SVProgressHUD.h
+Pods/SVProgressHUD/SVProgressHUD/SVProgressHUD.m
+Pods/SVProgressHUD/SVProgressHUD/SVRadialGradientLayer.h
+Pods/SVProgressHUD/SVProgressHUD/SVRadialGradientLayer.m
+Pods/SwiftyGif/LICENSE
+Pods/SwiftyGif/README.md
+Pods/SwiftyGif/SwiftyGif/SwiftyGif.h
+Pods/SwiftyGif/SwiftyGif/SwiftyGifManager.swift
+Pods/SwiftyGif/SwiftyGif/UIImage+SwiftyGif.swift
+Pods/SwiftyGif/SwiftyGif/UIImageView+SwiftyGif.swift
+Pods/SwiftyJSON/LICENSE
+Pods/SwiftyJSON/README.md
+Pods/SwiftyJSON/Source/SwiftyJSON.swift
+Pods/Target Support Files/Alamofire/Alamofire-dummy.m
+Pods/Target Support Files/Alamofire/Alamofire-prefix.pch
+Pods/Target Support Files/Alamofire/Alamofire-umbrella.h
+Pods/Target Support Files/Alamofire/Alamofire.modulemap
+Pods/Target Support Files/Alamofire/Alamofire.xcconfig
+Pods/Target Support Files/Alamofire/Info.plist
+Pods/Target Support Files/Pods-Gif Searcher/Info.plist
+Pods/Target Support Files/Pods-Gif Searcher/Pods-Gif Searcher-acknowledgements.markdown
+Pods/Target Support Files/Pods-Gif Searcher/Pods-Gif Searcher-acknowledgements.plist
+Pods/Target Support Files/Pods-Gif Searcher/Pods-Gif Searcher-dummy.m
+Pods/Target Support Files/Pods-Gif Searcher/Pods-Gif Searcher-frameworks.sh
+Pods/Target Support Files/Pods-Gif Searcher/Pods-Gif Searcher-resources.sh
+Pods/Target Support Files/Pods-Gif Searcher/Pods-Gif Searcher-umbrella.h
+Pods/Target Support Files/Pods-Gif Searcher/Pods-Gif Searcher.debug.xcconfig
+Pods/Target Support Files/Pods-Gif Searcher/Pods-Gif Searcher.modulemap
+Pods/Target Support Files/Pods-Gif Searcher/Pods-Gif Searcher.release.xcconfig
+Pods/Target Support Files/SDWebImage/Info.plist
+Pods/Target Support Files/SDWebImage/SDWebImage-dummy.m
+Pods/Target Support Files/SDWebImage/SDWebImage-prefix.pch
+Pods/Target Support Files/SDWebImage/SDWebImage-umbrella.h
+Pods/Target Support Files/SDWebImage/SDWebImage.modulemap
+Pods/Target Support Files/SDWebImage/SDWebImage.xcconfig
+Pods/Target Support Files/SVProgressHUD/Info.plist
+Pods/Target Support Files/SVProgressHUD/SVProgressHUD-dummy.m
+Pods/Target Support Files/SVProgressHUD/SVProgressHUD-prefix.pch
+Pods/Target Support Files/SVProgressHUD/SVProgressHUD-umbrella.h
+Pods/Target Support Files/SVProgressHUD/SVProgressHUD.modulemap
+Pods/Target Support Files/SVProgressHUD/SVProgressHUD.xcconfig
+Pods/Target Support Files/SwiftyGif/Info.plist
+Pods/Target Support Files/SwiftyGif/SwiftyGif-dummy.m
+Pods/Target Support Files/SwiftyGif/SwiftyGif-prefix.pch
+Pods/Target Support Files/SwiftyGif/SwiftyGif-umbrella.h
+Pods/Target Support Files/SwiftyGif/SwiftyGif.modulemap
+Pods/Target Support Files/SwiftyGif/SwiftyGif.xcconfig
+Pods/Target Support Files/SwiftyJSON/Info.plist
+Pods/Target Support Files/SwiftyJSON/SwiftyJSON-dummy.m
+Pods/Target Support Files/SwiftyJSON/SwiftyJSON-prefix.pch
+Pods/Target Support Files/SwiftyJSON/SwiftyJSON-umbrella.h
+Pods/Target Support Files/SwiftyJSON/SwiftyJSON.modulemap
+Pods/Target Support Files/SwiftyJSON/SwiftyJSON.xcconfig
